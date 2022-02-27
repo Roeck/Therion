@@ -30,6 +30,8 @@ body {
   border: 1px solid rgba(0, 0, 0, 0.3);
 }
 
+
+
 .eth-card {
  background: rgb(153,153,153);
 background: linear-gradient(219deg, rgba(153,153,153,0.76234243697479) 0%, rgba(16,14,20,0.5830707282913166) 51%, rgba(16,14,20,0.4990371148459384) 100%);
