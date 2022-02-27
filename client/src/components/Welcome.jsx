@@ -2,6 +2,7 @@ import React, { useContext } from "react";
 import { AiFillPlayCircle } from "react-icons/ai";
 import { SiEthereum } from "react-icons/si";
 import { BsInfoCircle } from "react-icons/bs";
+import { Loader } from ".";
 
 const companyCommonStyles = "min-h-[70px] sm:px-0 px-2 sm:min-w-[120px] flex justify-center items-center border-[0.5px] border-gray-400 text-sm font-light text-white";
 
@@ -90,18 +91,17 @@ const Welcome = () => {
                       <Input placeholder="Enter Message" name="message" type="text" handleChange={() => {}} />
                 <div className="h-[1px] w-full bg-gray-400 my-2" />
                 
-            {false ? (
+            {true ? (
               <Loader />
               ) : (
                 <button
                   type="button"
                   onClick={handleSubmit}
-                  className="text-white w-full mt-2 border-[1px] p-2 border-[#3d4f7c] hover:bg-[#3d4f7c] rounded-full cursor-pointer"
+                  className="text-white w-full mt-2 border-[1px] p-2 border-[#222029] hover:bg-[#222029] rounded-full cursor-pointer"
                 >
                   Send!
                 </button>
             )}
-
             </div>
         </div>
       </div>
