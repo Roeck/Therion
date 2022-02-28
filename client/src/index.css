@@ -38,7 +38,6 @@ body {
   border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
-
 .eth-card {
  background: #999999;
  background: linear-gradient(219deg, #999999c2 0%, #100e1495 51%, #100e147f 100%);
@@ -49,6 +48,13 @@ body {
   background-image: 
     radial-gradient(at 0% 0%, #100e14 0, transparent 50%), 
     radial-gradient(at 50% 100%, #6161616b 0%, transparent 50%);
+}
+
+.gradient-bg-transactions {
+  background-color: #0f0e13;
+  background-image: 
+    radial-gradient(at 0% 100%, hsla(253,16%,7%,1) 0, transparent 50%), 
+    radial-gradient(at 50% 0%, #6161616b 0%, transparent 50%);
 }
 
 @tailwind base;
