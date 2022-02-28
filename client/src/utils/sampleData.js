@@ -1,7 +1,7 @@
 export default [
   {
     id: 1,
-    url: "https://metro.co.uk/wp-content/uploads/2015/05/pokemon_crying.gif?quality=90&strip=all&zoom=1&resize=500%2C284",
+    url: "https://media4.giphy.com/media/YyKPbc5OOTSQE/giphy.gif?cid=790b7611819e146fd628b1770be943c2d2441989b78d6934&rid=giphy.gif&ct=g",
     message: "",
     timestamp: "12/21/2021, 4:33:21 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
@@ -10,7 +10,7 @@ export default [
   },
   {
     id: 2,
-    url: "https://media4.popsugar-assets.com/files/2013/11/07/832/n/1922398/eb7a69a76543358d_28.gif",
+    url: "https://media2.giphy.com/media/eTVG7eVNnud8Y/200.webp?cid=ecf05e47h5n5tfo9pde8y9pz8ql3jd4m9fp5nklo9a818vux&rid=200.webp&ct=g",
     message: "",
     timestamp: "12/21/2021, 4:33:21 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
@@ -19,7 +19,7 @@ export default [
   },
   {
     id: 3,
-    url: "https://acegif.com/wp-content/uploads/gif-shaking-head-38.gif",
+    url: "https://media0.giphy.com/media/Ss0aKjyh6UgHhnv0yG/200w.webp?cid=ecf05e47a3scr5d0q7mb96mtgpigefwj06otq30a8vzcxx8i&rid=200w.webp&ct=g",
     message: "",
     timestamp: "12/21/2021, 4:33:21 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
@@ -28,7 +28,7 @@ export default [
   },
   {
     id: 4,
-    url: "https://i.pinimg.com/originals/68/a0/9e/68a09e774e98242871c2db0f99307420.gif",
+    url: "https://media4.giphy.com/media/3rUbeDiLFMtAOIBErf/200w.webp?cid=ecf05e47hkmngcd7cyhyai0tkwz1imdouccl2thuqp7jfezw&rid=200w.webp&ct=g",
     message: "",
     timestamp: "12/21/2021, 4:33:21 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
@@ -37,7 +37,7 @@ export default [
   },
   {
     id: 5,
-    url: "https://i.pinimg.com/originals/73/d3/a1/73d3a14d212314ab1f7268b71d639c15.gif",
+    url: "https://media3.giphy.com/media/QIastOHHyRQFn9yDeN/200w.webp?cid=ecf05e4763okfn2tdlt43xijyxz6zevzbzf1iuys994apg7q&rid=200w.webp&ct=g",
     message: "",
     timestamp: "12/21/2021, 4:33:21 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
@@ -46,7 +46,7 @@ export default [
   },
   {
     id: 6,
-    url: "https://www.omnisend.com/blog/wp-content/uploads/2016/09/funny-gifs-9.gif",
+    url: "https://media3.giphy.com/media/inejMYaoTjcMLYzFfg/200w.webp?cid=ecf05e47ao57u3haxp68ddyfgav1nod9j92pwgg12au840he&rid=200w.webp&ct=g",
     message: "",
     timestamp: "12/21/2021, 4:33:21 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
