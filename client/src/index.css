@@ -57,6 +57,13 @@ body {
     radial-gradient(at 50% 0%, #6161616b 0%, transparent 50%);
 }
 
+.gradient-bg-footer {
+  background-color: #0f0e13;
+  background-image: 
+    radial-gradient(at 0% 100%, hsla(253,16%,7%,1) 0, transparent 53%), 
+    radial-gradient(at 50% 150%, rgba(113, 113, 113, 0.331) 0, transparent 50%);
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
