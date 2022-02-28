@@ -36,7 +36,7 @@ const Welcome = () => {
     <div className="flex w-full justify-center items-center">
       <div className="flex mf:flex-row flex-col items-start justify-between md:p-20 py-12 px-4">
         <div className="flex flex-1 justify-start items-start flex-col mf:mr-10">
-          <h1 className="text-3xl sm:text-5xl text-white text-gradient py-1">
+          <h1 className="text-3xl sm:text-5xl text-white py-1">
             Share crypto <br /> worldwide
           </h1>
           <p className="text-left mt-5 text-white font-light md:w-9/12 w-11/12 text-base">
@@ -91,7 +91,7 @@ const Welcome = () => {
               </div>
             </div>
             </div>
-            <div className="p-5 sm:w-96 w-full flex flex-col justify-start items-center blue-glassmorphism">
+            <div className="p-5 sm:w-96 w-full flex flex-col justify-start items-center grey-glassmorphism">
                 <Input placeholder="Address To" name="addressTo" type="text" handleChange={handleChange} />
                 <Input placeholder="Amount (ETH)" name="amount" type="number" handleChange={handleChange} />
                 <Input placeholder="Keyword (Gif)" name="keyword" type="text" handleChange={handleChange} />

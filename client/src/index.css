@@ -22,7 +22,7 @@ body {
 }
 
 .grey-glassmorphism {
-  background: #24242466;
+  background: #0f0e136e;
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
   backdrop-filter: blur(5px);
@@ -30,11 +30,25 @@ body {
   border: 1px solid rgba(0, 0, 0, 0.3);
 }
 
+.white-glassmorphism {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 16px;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
 
 
 .eth-card {
- background: rgb(153,153,153);
-background: linear-gradient(219deg, rgba(153,153,153,0.76234243697479) 0%, rgba(16,14,20,0.5830707282913166) 51%, rgba(16,14,20,0.4990371148459384) 100%);
+ background: #999999;
+ background: linear-gradient(219deg, #999999c2 0%, #100e1495 51%, #100e147f 100%);
+}
+
+.gradient-bg-services {
+  background-color:#0f0e13;
+  background-image: 
+    radial-gradient(at 0% 0%, #100e14 0, transparent 50%), 
+    radial-gradient(at 50% 100%, #6161616b 0%, transparent 50%);
 }
 
 @tailwind base;
