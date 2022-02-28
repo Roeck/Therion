@@ -13,7 +13,7 @@ const useFetch = ({ keyword }) => {
       setGifUrl(data[0]?.images?.downsized_medium.url);
     } catch (error) {
         setGifUrl("https://media4.giphy.com/media/YyKPbc5OOTSQE/giphy.gif?cid=790b7611819e146fd628b1770be943c2d2441989b78d6934&rid=giphy.gif&ct=g");
-    }
+   }
   };
 
   useEffect(() => {
